@@ -1,0 +1,9 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\CSharpExercise\VariableType\VariableType\bin\Debug\VariableType.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\CSharpExercise\VariableType\VariableType\bin\Debug\VariableType.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\CSharpExercise\VariableType\VariableType\bin\Debug\VariableType.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\CSharpExercise\VariableType\VariableType\obj\Debug\VariableType.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\CSharpExercise\VariableType\VariableType\obj\Debug\VariableType.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\CSharpExercise\VariableType\VariableType\obj\Debug\VariableType.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableType\VariableType\bin\Debug\VariableType.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableType\VariableType\obj\Debug\VariableType.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableType\VariableType\obj\Debug\VariableType.pdb
