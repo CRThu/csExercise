@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ValueOperation\ValueOperation\bin\Debug\ValueOperation.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ValueOperation\ValueOperation\bin\Debug\ValueOperation.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ValueOperation\ValueOperation\bin\Debug\ValueOperation.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ValueOperation\ValueOperation\obj\Debug\ValueOperation.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ValueOperation\ValueOperation\obj\Debug\ValueOperation.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ValueOperation\ValueOperation\obj\Debug\ValueOperation.pdb
