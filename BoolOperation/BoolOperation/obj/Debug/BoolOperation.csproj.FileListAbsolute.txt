@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\BoolOperation\BoolOperation\bin\Debug\BoolOperation.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\BoolOperation\BoolOperation\bin\Debug\BoolOperation.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\BoolOperation\BoolOperation\bin\Debug\BoolOperation.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\BoolOperation\BoolOperation\obj\Debug\BoolOperation.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\BoolOperation\BoolOperation\obj\Debug\BoolOperation.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\BoolOperation\BoolOperation\obj\Debug\BoolOperation.pdb
