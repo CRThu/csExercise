@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\switchStatements\switchStatements\bin\Debug\switchStatements.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\switchStatements\switchStatements\obj\Debug\switchStatements.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\switchStatements\switchStatements\bin\Debug\switchStatements.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\switchStatements\switchStatements\bin\Debug\switchStatements.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\switchStatements\switchStatements\obj\Debug\switchStatements.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\switchStatements\switchStatements\obj\Debug\switchStatements.pdb
