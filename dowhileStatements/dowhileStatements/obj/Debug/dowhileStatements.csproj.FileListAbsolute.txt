@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\dowhileStatements\dowhileStatements\bin\Debug\dowhileStatements.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\dowhileStatements\dowhileStatements\bin\Debug\dowhileStatements.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\dowhileStatements\dowhileStatements\bin\Debug\dowhileStatements.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\dowhileStatements\dowhileStatements\obj\Debug\dowhileStatements.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\dowhileStatements\dowhileStatements\obj\Debug\dowhileStatements.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\dowhileStatements\dowhileStatements\obj\Debug\dowhileStatements.pdb
