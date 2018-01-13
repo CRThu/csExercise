@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\whileStatements\whileStatements\bin\Debug\whileStatements.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\whileStatements\whileStatements\obj\Debug\whileStatements.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\whileStatements\whileStatements\bin\Debug\whileStatements.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\whileStatements\whileStatements\bin\Debug\whileStatements.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\whileStatements\whileStatements\obj\Debug\whileStatements.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\whileStatements\whileStatements\obj\Debug\whileStatements.pdb
