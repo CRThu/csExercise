@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableConversion\VariableConversion\bin\Debug\VariableConversion.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableConversion\VariableConversion\bin\Debug\VariableConversion.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableConversion\VariableConversion\bin\Debug\VariableConversion.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableConversion\VariableConversion\obj\Debug\VariableConversion.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableConversion\VariableConversion\obj\Debug\VariableConversion.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableConversion\VariableConversion\obj\Debug\VariableConversion.pdb
