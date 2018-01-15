@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\enumVariable\enumVariable\bin\Debug\enumVariable.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\enumVariable\enumVariable\bin\Debug\enumVariable.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\enumVariable\enumVariable\bin\Debug\enumVariable.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\enumVariable\enumVariable\obj\Debug\enumVariable.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\enumVariable\enumVariable\obj\Debug\enumVariable.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\enumVariable\enumVariable\obj\Debug\enumVariable.pdb
