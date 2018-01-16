@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structVariable\structVariable\bin\Debug\structVariable.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structVariable\structVariable\bin\Debug\structVariable.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structVariable\structVariable\bin\Debug\structVariable.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structVariable\structVariable\obj\Debug\structVariable.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structVariable\structVariable\obj\Debug\structVariable.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structVariable\structVariable\obj\Debug\structVariable.pdb
