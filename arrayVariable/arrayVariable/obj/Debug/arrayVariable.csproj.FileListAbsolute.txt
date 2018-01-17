@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\arrayVariable\arrayVariable\bin\Debug\arrayVariable.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\arrayVariable\arrayVariable\obj\Debug\arrayVariable.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\arrayVariable\arrayVariable\bin\Debug\arrayVariable.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\arrayVariable\arrayVariable\bin\Debug\arrayVariable.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\arrayVariable\arrayVariable\obj\Debug\arrayVariable.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\arrayVariable\arrayVariable\obj\Debug\arrayVariable.pdb
