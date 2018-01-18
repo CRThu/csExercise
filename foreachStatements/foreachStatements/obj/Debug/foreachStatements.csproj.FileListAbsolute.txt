@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\foreachStatements\foreachStatements\bin\Debug\foreachStatements.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\foreachStatements\foreachStatements\bin\Debug\foreachStatements.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\foreachStatements\foreachStatements\bin\Debug\foreachStatements.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\foreachStatements\foreachStatements\obj\Debug\foreachStatements.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\foreachStatements\foreachStatements\obj\Debug\foreachStatements.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\foreachStatements\foreachStatements\obj\Debug\foreachStatements.pdb
