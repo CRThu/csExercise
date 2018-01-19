@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\stringVariable\stringVariable\bin\Debug\stringVariable.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\stringVariable\stringVariable\bin\Debug\stringVariable.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\stringVariable\stringVariable\bin\Debug\stringVariable.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\stringVariable\stringVariable\obj\Debug\stringVariable.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\stringVariable\stringVariable\obj\Debug\stringVariable.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\stringVariable\stringVariable\obj\Debug\stringVariable.pdb
