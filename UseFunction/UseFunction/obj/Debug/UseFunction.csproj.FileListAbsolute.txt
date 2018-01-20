@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\UseFunction\UseFunction\bin\Debug\UseFunction.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\UseFunction\UseFunction\bin\Debug\UseFunction.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\UseFunction\UseFunction\bin\Debug\UseFunction.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\UseFunction\UseFunction\obj\Debug\UseFunction.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\UseFunction\UseFunction\obj\Debug\UseFunction.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\UseFunction\UseFunction\obj\Debug\UseFunction.pdb
