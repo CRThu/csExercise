@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\FunctionParamsKeywords\FunctionParamsKeywords\bin\Debug\FunctionParamsKeywords.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\FunctionParamsKeywords\FunctionParamsKeywords\bin\Debug\FunctionParamsKeywords.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\FunctionParamsKeywords\FunctionParamsKeywords\bin\Debug\FunctionParamsKeywords.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\FunctionParamsKeywords\FunctionParamsKeywords\obj\Debug\FunctionParamsKeywords.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\FunctionParamsKeywords\FunctionParamsKeywords\obj\Debug\FunctionParamsKeywords.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\FunctionParamsKeywords\FunctionParamsKeywords\obj\Debug\FunctionParamsKeywords.pdb
