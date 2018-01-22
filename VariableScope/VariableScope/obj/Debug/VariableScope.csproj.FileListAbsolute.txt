@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableScope\VariableScope\bin\Debug\VariableScope.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableScope\VariableScope\bin\Debug\VariableScope.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableScope\VariableScope\bin\Debug\VariableScope.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableScope\VariableScope\obj\Debug\VariableScope.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableScope\VariableScope\obj\Debug\VariableScope.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\VariableScope\VariableScope\obj\Debug\VariableScope.pdb
