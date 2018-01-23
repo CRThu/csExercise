@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\MainFunction\MainFunction\bin\Debug\MainFunction.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\MainFunction\MainFunction\bin\Debug\MainFunction.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\MainFunction\MainFunction\bin\Debug\MainFunction.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\MainFunction\MainFunction\obj\Debug\MainFunction.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\MainFunction\MainFunction\obj\Debug\MainFunction.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\MainFunction\MainFunction\obj\Debug\MainFunction.pdb
