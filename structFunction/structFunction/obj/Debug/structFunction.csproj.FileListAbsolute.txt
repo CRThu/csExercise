@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structFunction\structFunction\bin\Debug\structFunction.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structFunction\structFunction\bin\Debug\structFunction.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structFunction\structFunction\bin\Debug\structFunction.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structFunction\structFunction\obj\Debug\structFunction.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structFunction\structFunction\obj\Debug\structFunction.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\structFunction\structFunction\obj\Debug\structFunction.pdb
