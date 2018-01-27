@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DelegateReadLine\DelegateReadLine\bin\Debug\DelegateReadLine.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DelegateReadLine\DelegateReadLine\bin\Debug\DelegateReadLine.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DelegateReadLine\DelegateReadLine\bin\Debug\DelegateReadLine.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DelegateReadLine\DelegateReadLine\obj\Debug\DelegateReadLine.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DelegateReadLine\DelegateReadLine\obj\Debug\DelegateReadLine.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DelegateReadLine\DelegateReadLine\obj\Debug\DelegateReadLine.pdb
