@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\bin\Debug\DebugOutputText.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\bin\Debug\DebugOutputText.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\bin\Debug\DebugOutputText.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\obj\Debug\DebugOutputText.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\obj\Debug\DebugOutputText.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\obj\Debug\DebugOutputText.pdb

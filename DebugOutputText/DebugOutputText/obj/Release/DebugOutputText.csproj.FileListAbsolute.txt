@@ -1,0 +1,5 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\bin\Release\DebugOutputText.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\bin\Release\DebugOutputText.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\bin\Release\DebugOutputText.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\obj\Release\DebugOutputText.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\DebugOutputText\DebugOutputText\obj\Release\DebugOutputText.pdb
