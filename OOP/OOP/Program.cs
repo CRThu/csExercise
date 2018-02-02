@@ -12,7 +12,7 @@ namespace OOP
         {
             void TestForInterface();
         }   // IHotDrink接口
-        class CupOfCoffee:IDisposable,IHotDrink
+        class CupOfCoffee : IDisposable, IHotDrink
         {
             string BeanType;
             bool Instant;
@@ -36,14 +36,18 @@ namespace OOP
             }
             public void TestForInterface()
             {
-
+                Console.WriteLine("CupOfCoffee:TestForInterface()!");
             }
             public void Dispose()
             {
-
+                Console.WriteLine("CupOfCoffee:Dispose()!");
             }
         }   // CupOfCoffee类
-        class Animal
+        interface IEatFood
+        {
+            void EatFood();
+        }   // IEatFood接口
+        class Animal : IEatFood
         {
             public void EatFood()   // 均可调用 可变为虚拟成员
             {
@@ -54,7 +58,7 @@ namespace OOP
                 Console.WriteLine("Animal:ProtectedEatFood()!");
             }
         }   // 基类
-        class Chicken:Animal
+        class Chicken : Animal
         {
             public void EatFood()   // 重写Animal:EatFood()
             {
@@ -64,6 +68,31 @@ namespace OOP
             {
                 Console.Write("Chicken:UseProtectedEatFood->");
                 ProtectedEatFood();  // 派生类可调用
+            }
+        }   // 派生类
+        class Cow : Animal
+        {
+            int Weight;
+            public Cow(int weight)
+            {
+                this.Weight = weight;
+            }
+            public Cow()
+            {
+            }
+            public static bool operator <(Cow cow1, Cow cow2)
+            {
+                Console.WriteLine("Cow:重载运算符<(cow1,cow2)");
+                return cow1.Weight < cow2.Weight ? true : false;
+            }
+            public static bool operator >(Cow cow1, Cow cow2)
+            {
+                Console.WriteLine("Cow:重载运算符>(cow1,cow2)");
+                return cow1.Weight > cow2.Weight ? true : false;
+            }
+            public void Moo()
+            {
+                Console.WriteLine("Cow:Moo()!");
             }
         }   // 派生类
         static void Main(string[] args)
@@ -110,8 +139,34 @@ namespace OOP
             // 抽象类不能被实例化
 
             // 多态
-            // TODO
+            Cow myCow = new Cow();  // 派生类型变量
+            Animal myAnimal = myCow;    // 派生类型变量赋给基本类型变量
+            myAnimal.EatFood(); // 访问基类方法
+            Cow myNewCow = (Cow)myAnimal;   // 转换为派生类变量
+            myNewCow.Moo(); // 调用派生类方法
+
+            // 接口的多态性
+            IEatFood eatFoodInterface;
+            eatFoodInterface = myAnimal;
+            eatFoodInterface.EatFood();
+            eatFoodInterface = myCow;
+            eatFoodInterface.EatFood();
+
+            // 集合
+            Animal[] animals = new Animal[5];
             #endregion
+
+            // 运算符重载
+            Cow myCow1 = new Cow(100);
+            Cow myCow2 = new Cow(200);
+            Console.WriteLine("myCow1 < myCow2? " + (myCow1 < myCow2 ? "true" : "false"));
+            Console.WriteLine("myCow1 > myCow2? " + (myCow1 > myCow2 ? "true" : "false"));
+
+            // 事件
+            // -
+
+            // 引用类型和值类型
+            // -
 
             Console.ReadKey();
         }
