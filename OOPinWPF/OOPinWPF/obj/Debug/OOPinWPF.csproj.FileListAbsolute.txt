@@ -1,0 +1,14 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\bin\Debug\OOPinWPF.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\bin\Debug\OOPinWPF.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\bin\Debug\OOPinWPF.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\OOPinWPF.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\MainWindow.g.cs
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\App.g.cs
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\OOPinWPF_MarkupCompile.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\OOPinWPF_MarkupCompile.lref
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\MainWindow.baml
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\OOPinWPF.g.resources
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\OOPinWPF.Properties.Resources.resources
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\OOPinWPF.csproj.GenerateResource.Cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\OOPinWPF.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\OOPinWPF\OOPinWPF\obj\Debug\OOPinWPF.pdb
