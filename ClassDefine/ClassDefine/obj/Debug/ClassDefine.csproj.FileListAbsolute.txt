@@ -1,1 +1,6 @@
 C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassDefine\ClassDefine\bin\Debug\ClassDefine.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassDefine\ClassDefine\bin\Debug\ClassDefine.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassDefine\ClassDefine\bin\Debug\ClassDefine.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassDefine\ClassDefine\obj\Debug\ClassDefine.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassDefine\ClassDefine\obj\Debug\ClassDefine.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassDefine\ClassDefine\obj\Debug\ClassDefine.pdb

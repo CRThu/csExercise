@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ClassDefine
 {
-    class Program
-    {
+    // UML : 点击解决方案管理器-项目右键-查看-查看类图
+
         // internal & public
         class MyClass
         {
@@ -49,9 +49,13 @@ namespace ClassDefine
             // Interface members.
         }   // 可以公开访问
 
-
+    class Program
+    {
         static void Main(string[] args)
         {
+            MyBigClass myObj = new MyBigClass();
+            Console.WriteLine(myObj.ToString());
+            Console.ReadKey();
         }
     }
 }
