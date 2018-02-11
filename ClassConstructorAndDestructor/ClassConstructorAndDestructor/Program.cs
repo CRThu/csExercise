@@ -20,6 +20,24 @@ namespace ClassConstructorAndDestructor
             // Constructor code.
         }   // 私有构造函数,不可创建
     }
+    class MyConstructorClass
+    {
+        public MyConstructorClass()
+        {
+            // Default constructor code.
+        }
+        public MyConstructorClass(int myInt)
+        {
+            // Default constructor code (uses myInt).
+        }   // 添加非默认构造函数
+    }
+    class MyDestructorClass
+    {
+        ~MyDestructorClass()
+        {
+            // Destructor body.
+        }   // 析构函数
+    }
 
     // TODO
 
