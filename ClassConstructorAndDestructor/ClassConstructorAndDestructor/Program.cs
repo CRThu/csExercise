@@ -39,12 +39,45 @@ namespace ClassConstructorAndDestructor
         }   // 析构函数
     }
 
-    // TODO
+    // 使用基类的构造函数
+    public class MyBaseClass
+    {
+        public MyBaseClass()
+        {
+            Console.WriteLine("MyBaseClass.MyBaseClass()");
+        }
+        public MyBaseClass(int i)
+        {
+            Console.WriteLine("MyBaseClass.MyBaseClass(int i)");
+        }
+    }   // 基类
+    public class MyDerivedClass : MyBaseClass
+    {
+        public MyDerivedClass()
+        {
+            Console.WriteLine("MyDerivedClass.MyDerivedClass()");
+        }
+        public MyDerivedClass(int i)
+        {
+            Console.WriteLine("MyDerivedClass.MyDerivedClass(int i)");
+        }
+        public MyDerivedClass(int i,int j)
+        {
+            Console.WriteLine("MyDerivedClass.MyDerivedClass(inti,int j)");
+        }
+    }   // 派生类
 
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("MyDerivedClass myObj = new MyDerivedClass();");
+            // System.Object.Object()
+            // MyBaseClass.MyBaseClass()
+            // MyDerivedClass.MyDerivedClass()
+            MyDerivedClass myObj = new MyDerivedClass();
+
+
         }
     }
 }
