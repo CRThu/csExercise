@@ -1,1 +1,6 @@
 C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassConstructorAndDestructor\ClassConstructorAndDestructor\bin\Debug\ClassConstructorAndDestructor.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassConstructorAndDestructor\ClassConstructorAndDestructor\bin\Debug\ClassConstructorAndDestructor.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassConstructorAndDestructor\ClassConstructorAndDestructor\bin\Debug\ClassConstructorAndDestructor.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassConstructorAndDestructor\ClassConstructorAndDestructor\obj\Debug\ClassConstructorAndDestructor.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassConstructorAndDestructor\ClassConstructorAndDestructor\obj\Debug\ClassConstructorAndDestructor.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassConstructorAndDestructor\ClassConstructorAndDestructor\obj\Debug\ClassConstructorAndDestructor.pdb

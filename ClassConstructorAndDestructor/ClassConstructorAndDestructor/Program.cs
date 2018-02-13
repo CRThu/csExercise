@@ -63,7 +63,15 @@ namespace ClassConstructorAndDestructor
         }
         public MyDerivedClass(int i,int j)
         {
-            Console.WriteLine("MyDerivedClass.MyDerivedClass(inti,int j)");
+            Console.WriteLine("MyDerivedClass.MyDerivedClass(int i, int j)");
+        }
+        public MyDerivedClass(int i, int j, int k) : base(i)
+        {
+            Console.WriteLine("MyDerivedClass.MyDerivedClass(int i, int j, int k) : base(i)");
+        }       // 使用基类的(int i)构造函数
+        public MyDerivedClass(int i, string k) : this(1, 2, 3)  // 使用当前类的(int i, int j, int k)构造函数
+        {
+            Console.WriteLine("MyDerivedClass.MyDerivedClass(int i, string k) : this(1, 2, 3)");
         }
     }   // 派生类
 
@@ -71,13 +79,48 @@ namespace ClassConstructorAndDestructor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("MyDerivedClass myObj = new MyDerivedClass();");
+            // 先基类构造函数到派生类构造函数
+
+            Console.WriteLine("MyDerivedClass myObj1 = new MyDerivedClass();");
             // System.Object.Object()
             // MyBaseClass.MyBaseClass()
             // MyDerivedClass.MyDerivedClass()
-            MyDerivedClass myObj = new MyDerivedClass();
+            MyDerivedClass myObj1 = new MyDerivedClass();
 
+            Console.WriteLine();
 
+            Console.WriteLine("MyDerivedClass myObj2 = new MyDerivedClass(4);");
+            // System.Object.Object()
+            // MyBaseClass.MyBaseClass()
+            // MyDerivedClass.MyDerivedClass(int i)
+            MyDerivedClass myObj2 = new MyDerivedClass(4);
+
+            Console.WriteLine();
+
+            Console.WriteLine("MyDerivedClass myObj3 = new MyDerivedClass(4, 8);");
+            // System.Object.Object()
+            // MyBaseClass.MyBaseClass()
+            // MyDerivedClass.MyDerivedClass(int i, int j)
+            MyDerivedClass myObj3 = new MyDerivedClass(4, 8);
+
+            Console.WriteLine();
+
+            Console.WriteLine("MyDerivedClass myObj4 = new MyDerivedClass(4, 8, 12);");
+            // System.Object.Object()
+            // MyBaseClass.MyBaseClass(int i)
+            // MyDerivedClass.MyDerivedClass(int i, int j, int k) : base(i)
+            MyDerivedClass myObj4 = new MyDerivedClass(4, 8, 12);
+
+            Console.WriteLine();
+
+            Console.WriteLine("MyDerivedClass myObj5 = new MyDerivedClass(4,\"12\");");
+            // System.Object.Object()
+            // MyBaseClass.MyBaseClass(int i)
+            // MyDerivedClass.MyDerivedClass(int i, int j, int k) : base(i)
+            // MyDerivedClass(int i, string k) : this(1, 2, 3)
+            MyDerivedClass myObj5 = new MyDerivedClass(4,"12");
+
+            Console.ReadKey();
         }
     }
 }
