@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\summary\summary\bin\Debug\summary.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\summary\summary\bin\Debug\summary.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\summary\summary\bin\Debug\summary.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\summary\summary\obj\Debug\summary.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\summary\summary\obj\Debug\summary.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\summary\summary\obj\Debug\summary.pdb
