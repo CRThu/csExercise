@@ -40,7 +40,7 @@ namespace ClassDefine
 
         // 接口
         // 不能使用 abstract 和 sealed 关键字,接口定义不包含实现代码,不能直接实例化,且必须是可以继承的
-        interface IMyInterface
+        interface IMyInterface:IMyPublicInterface
         {
             // Interface members.
         }   // 默认internal

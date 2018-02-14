@@ -41,7 +41,7 @@
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" />
+    <Lollipop Orientation="Right" Position="0.41" />
   </Class>
   <Class Name="ClassDefine.Program" Collapsed="true">
     <Position X="4.75" Y="1.5" Width="1.5" />
