@@ -1,0 +1,8 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\MyConsoleApplication\bin\Debug\MyConsoleApplication.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\MyConsoleApplication\bin\Debug\MyConsoleApplication.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\MyConsoleApplication\bin\Debug\MyConsoleApplication.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\MyConsoleApplication\bin\Debug\CreateNewClassLibrary.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\MyConsoleApplication\bin\Debug\CreateNewClassLibrary.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\MyConsoleApplication\obj\Debug\MyConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\MyConsoleApplication\obj\Debug\MyConsoleApplication.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\MyConsoleApplication\obj\Debug\MyConsoleApplication.pdb

@@ -1,0 +1,5 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\CreateNewClassLibrary\bin\Debug\CreateNewClassLibrary.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\CreateNewClassLibrary\bin\Debug\CreateNewClassLibrary.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\CreateNewClassLibrary\obj\Debug\CreateNewClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\CreateNewClassLibrary\obj\Debug\CreateNewClassLibrary.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CreateNewClassLibrary\CreateNewClassLibrary\obj\Debug\CreateNewClassLibrary.pdb
