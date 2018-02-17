@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassAndStruct\ClassAndStruct\bin\Debug\ClassAndStruct.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassAndStruct\ClassAndStruct\bin\Debug\ClassAndStruct.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassAndStruct\ClassAndStruct\bin\Debug\ClassAndStruct.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassAndStruct\ClassAndStruct\obj\Debug\ClassAndStruct.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassAndStruct\ClassAndStruct\obj\Debug\ClassAndStruct.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassAndStruct\ClassAndStruct\obj\Debug\ClassAndStruct.pdb
