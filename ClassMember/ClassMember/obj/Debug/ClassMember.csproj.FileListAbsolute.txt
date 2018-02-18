@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassMember\ClassMember\bin\Debug\ClassMember.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassMember\ClassMember\bin\Debug\ClassMember.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassMember\ClassMember\bin\Debug\ClassMember.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassMember\ClassMember\obj\Debug\ClassMember.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassMember\ClassMember\obj\Debug\ClassMember.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ClassMember\ClassMember\obj\Debug\ClassMember.pdb
