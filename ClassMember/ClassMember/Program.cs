@@ -58,6 +58,21 @@ namespace ClassMember
         private int myDoubledInt = 5;
         // Property.
         public int MyDoubledIntProp => (myDoubledInt * 2);
+
+        // 重构成员 refactoring
+        public string MyString  // 自动生成
+        {
+            get { return myString; }
+            set { myString = value; }
+        }
+        private string myString; // 右键 - 快速操作和重构
+
+        // 自动属性
+        // 键入prop后两次Tab
+        public int MyProperty { get; set; }
+        public int MyPropertyReadonly1 { get; }
+        public int MyPropertyReadonly2 { get; } = 9;
+        
     }
     class MyDerivedClass : MyClass
     {
