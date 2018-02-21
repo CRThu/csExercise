@@ -44,6 +44,13 @@ namespace ClassMember
             myBaseClassNothing2.DoSomething();  // 基类的函数被隐藏
             MyBaseClassVirtual myBaseClassVirtual = new MyDerivedClassOverride();   // 重写
             myBaseClassVirtual.DoSomething();   // 基类的函数被重写
+            // base关键字
+            MyBaseClassVirtual myBaseClassVirtualUsingBase = new MyDerivedClassUsingBaseOverride(); // 使用基类
+            myBaseClassVirtualUsingBase.DoSomething();  // 派生类引用基类成员
+            // this关键字
+            MyTestClass myTestClass = new MyTestClass();
+            myTestClass.DoSomething();
+
             Console.ReadKey();
         }
     }

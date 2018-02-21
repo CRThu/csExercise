@@ -30,4 +30,38 @@ namespace ClassMember
     {
         public override void DoSomething() => Console.WriteLine("MyDerivedClassOverride.DoSomething()");
     }
+    // base关键字
+    public class MyDerivedClassUsingBaseOverride : MyBaseClassVirtual
+    {
+        public override void DoSomething()
+        {
+            Console.Write("MyDerivedClassUsingBaseOverride.DoSomething() : ");
+            base.DoSomething();
+        }
+    }
+    // this关键字
+    public class MyTargetClass
+    {
+        public void DoSomethingWith(object myObj)
+        {
+            Console.WriteLine("MyTargetClass.DoSomethingWith(" + myObj.ToString() + ")");
+        }
+    }
+    public class MyTestClass
+    {
+        private int someData;
+        public int SomeData
+        {
+            get
+            {
+                return this.someData;   // 指定成员
+            }
+        }
+        public void DoSomething()
+        {
+            Console.Write("MyTestClass.DoSomething() : ");
+            MyTargetClass myObj = new MyTargetClass();
+            myObj.DoSomethingWith(this);    // 传递当前对象实例的引用
+        }
+    }
 }
