@@ -50,7 +50,13 @@ namespace ClassMember
             // this关键字
             MyTestClass myTestClass = new MyTestClass();
             myTestClass.DoSomething();
-
+            // class嵌套
+            Console.WriteLine();
+            MyNestedClassA myNestObject = new MyNestedClassA();
+            Console.WriteLine($"myNestObject.State = {myNestObject.State}");
+            MyNestedClassA.MyNestedClassB myOtherNestObject = new MyNestedClassA.MyNestedClassB();
+            myOtherNestObject.SetPrivateState(myNestObject, 999);
+            Console.WriteLine($"myNestObject.State = {myNestObject.State}");
             Console.ReadKey();
         }
     }
