@@ -57,6 +57,17 @@ namespace ClassMember
             MyNestedClassA.MyNestedClassB myOtherNestObject = new MyNestedClassA.MyNestedClassB();
             myOtherNestObject.SetPrivateState(myNestObject, 999);
             Console.WriteLine($"myNestObject.State = {myNestObject.State}");
+            // 接口
+            Console.WriteLine();
+            MyDerivedInterfaceClass myDerivedInterfaceClass = new MyDerivedInterfaceClass();
+            myDerivedInterfaceClass.DoSomething();  // 基类MyInterfaceClass实现
+            myDerivedInterfaceClass.DoSomethingElse();  // 派生类MyDerivedInterfaceClass实现
+
+            IMyBaseInterface iMyBaseInterface = new MyDerivedInterfaceClass();
+            iMyBaseInterface.DoSomething(); // 显式指定的调用方法
+            iMyBaseInterface.DoSomethingElse(); // 隐式指定的调用方法
+
+
             Console.ReadKey();
         }
     }
