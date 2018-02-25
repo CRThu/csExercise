@@ -47,6 +47,7 @@
     <Compile Include="MyBaseClassAndMyDerivedClass.cs" />
     <Compile Include="MyClass.cs" />
     <Compile Include="MyNestedClass.cs" />
+    <Compile Include="PartialClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

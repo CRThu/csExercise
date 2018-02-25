@@ -67,6 +67,10 @@ namespace ClassMember
             iMyBaseInterface.DoSomething(); // 显式指定的调用方法
             iMyBaseInterface.DoSomethingElse(); // 隐式指定的调用方法
 
+            // partial
+            Console.WriteLine();
+            PartialClass partialClass = new PartialClass();
+            partialClass.DoSomething();
 
             Console.ReadKey();
         }

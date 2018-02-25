@@ -12,6 +12,7 @@ namespace ClassMember
     // 不能用static/virtual/abstract/sealed来定义接口成员
     // 类型定义成员是禁止的
     // 若需要从基接口继承成员,使用new来定义
+    #region Interface
     interface IMyBaseInterface
     {
         // Interface members.
@@ -23,7 +24,9 @@ namespace ClassMember
         int MyInt { get; /*set;*/ }
         new void DoSomething();
     }
-    class MyInterfacePropertyClass: MyDerivedInterfaceClass, IMyDerivedInterface
+    #endregion
+    #region Class
+    class MyInterfacePropertyClass : MyDerivedInterfaceClass, IMyDerivedInterface
     {
         public int MyInt { get; protected set; }    // 类的代码可以访问该存取器, 接口的代码不可以访问该存取器
     }
@@ -50,4 +53,5 @@ namespace ClassMember
     {
         public new void DoSomething() => Console.WriteLine("MyNewInterfaceClass.DoSomething()");
     }
+    #endregion
 }
