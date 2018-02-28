@@ -8,8 +8,9 @@ namespace CardClassLibrary
 {
     public class Card
     {
-        public Rank rank;
-        public Suit suit;
+        // 字段属性 - 修饰符 - 常量类型 - readonly
+        public readonly Rank rank;
+        public readonly Suit suit;
 
         private Card()
         {
@@ -20,10 +21,10 @@ namespace CardClassLibrary
             suit = newSuit;
             rank = newRank;
         }
-
-        public void ToString()
+        // ToString 属性 - 修饰符 - 继承修饰符 - override
+        public override string ToString()
         {
-            throw new System.NotImplementedException();
+            return "The " + rank + " of " + suit + "s";
         }
     }
 }
