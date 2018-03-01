@@ -1,21 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="CardClassLibrary.Card">
-    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Position X="3" Y="0.5" Width="1.5" />
+    <AssociationLine Name="rank" Type="CardClassLibrary.Rank">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.268" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="suit" Type="CardClassLibrary.Suit">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.102" Y="0.168" />
+      </MemberNameLabel>
+    </AssociationLine>
     <TypeIdentifier>
       <HashCode>AEAAAAAAAQAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Card.cs</FileName>
     </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="rank" />
+      <Field Name="suit" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CardClassLibrary.Deck">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="cards" Type="CardClassLibrary.Card">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.193" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Deck.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cards" />
+    </ShowAsAssociation>
   </Class>
   <Enum Name="CardClassLibrary.Suit">
-    <Position X="3" Y="0.5" Width="1.5" />
+    <Position X="3" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAACAACA=</HashCode>
       <FileName>Suit.cs</FileName>
     </TypeIdentifier>
   </Enum>
   <Enum Name="CardClassLibrary.Rank">
-    <Position X="4.75" Y="0.5" Width="1.5" />
+    <Position X="5.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>gAAAAAAAAAAggAAAEAAECIAAAAAFBAAAAAAAAAgAAEE=</HashCode>
       <FileName>Rank.cs</FileName>
