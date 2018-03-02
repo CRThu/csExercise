@@ -4,3 +4,5 @@ C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassL
 C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassLibrary\CardClientApplication\obj\Debug\CardClientApplication.csprojResolveAssemblyReference.cache
 C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassLibrary\CardClientApplication\obj\Debug\CardClientApplication.exe
 C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassLibrary\CardClientApplication\obj\Debug\CardClientApplication.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassLibrary\CardClientApplication\bin\Debug\CardClassLibrary.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassLibrary\CardClientApplication\bin\Debug\CardClassLibrary.pdb

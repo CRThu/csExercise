@@ -27,18 +27,24 @@ namespace CardClassLibrary
 
         public void Shuffle()
         {
-            Card[] newDeck = new Card[52];
-            bool[] assigned = new bool[52];
-            Random sourceGen = new Random();
+            Card[] newDeck = new Card[52];  // 牌组
+            bool[] assigned = new bool[52]; // 标记
+            Random sourceGen = new Random();    // 随机数组
             for (int i = 0; i < 52; i++)
             {
                 int destCard = 0;
                 bool foundCard = false;
-                while(foundCard==false)
+                while (foundCard == false)
                 {
-                    destCard=
+                    destCard = sourceGen.Next(52);  // [0,51]区间取随机数
+                    if (assigned[destCard] == false)
+                        foundCard = true;
                 }
+                assigned[destCard] = true;
+                newDeck[destCard] = cards[i];   // 指定牌放入随机抽到的牌组
             }
+            newDeck.CopyTo(cards, 0);   // 0开始复制newDeck -> cards
+            // cards = newDeck; // 若其他地方代码存在对原cards实例引用, 会出问题
         }
     }
 }

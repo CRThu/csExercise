@@ -1,0 +1,5 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassLibrary\CardClassLibrary\bin\Debug\CardClassLibrary.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassLibrary\CardClassLibrary\bin\Debug\CardClassLibrary.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassLibrary\CardClassLibrary\obj\Debug\CardClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassLibrary\CardClassLibrary\obj\Debug\CardClassLibrary.dll
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\CardClassLibrary\CardClassLibrary\obj\Debug\CardClassLibrary.pdb
