@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Property\Property\bin\Debug\Property.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Property\Property\bin\Debug\Property.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Property\Property\bin\Debug\Property.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Property\Property\obj\Debug\Property.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Property\Property\obj\Debug\Property.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Property\Property\obj\Debug\Property.pdb
