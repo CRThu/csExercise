@@ -1,1 +1,6 @@
 C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\Collections\Collections\obj\Debug\Collections.pdb
