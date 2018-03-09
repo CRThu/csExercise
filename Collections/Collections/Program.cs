@@ -7,6 +7,12 @@ using System.Collections;
 
 namespace Collections
 {
+    // Collections中接口提供基本的集合功能
+    // IEnumerable 可以迭代集合中的项
+    // ICollection(继承与IEnumerable)可以获取集合项的个数, 并能把项复制到一个简单的数组类型中
+    // IList(继承IEnumerable和ICollection)提供了集合的项列表, 允许访问这些项,并提供其他一些于项列表的基本功能
+    // IDictionary(继承Ienumerable和ICollection)类似于IList, 但提供了可通过键值(而不是索引)访问的项列表
+    // System.Array类实现了IList/ICollection/IEnumerable, 但不支持IList的一些更高级的功能, 它表示大小固定的项列表
     class Program
     {
         static void Main(string[] args)
