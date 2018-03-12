@@ -11,6 +11,7 @@ namespace Collections
     // CollectionBase类和indexer索引符
     public class Animals : CollectionBase
     {
+        // IList接口
         public void Add(Animal newAnimal)
         {
             List.Add(newAnimal);
@@ -19,6 +20,7 @@ namespace Collections
         {
             List.Remove(newAnimal);
         }
+        // 索引符
         public Animal this[int animalIndex]
         {
             get { return (Animal)List[animalIndex]; }

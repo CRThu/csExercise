@@ -52,6 +52,13 @@ namespace Collections
             Console.WriteLine($"The animal called {myCow1.Name} is at index {animalArrayList.IndexOf(myCow1)}.");
             myCow1.Name = "Mary";
             Console.WriteLine($"The animal is now called {((Animal)animalArrayList[1]).Name}");
+            // 测试Animals类
+            Console.WriteLine();
+            Animals animalCollection = new Animals();
+            animalCollection.Add(new Cow("Donna"));
+            animalCollection.Add(new Chicken("Kevin"));
+            foreach (Animal myAnimal in animalCollection)
+                myAnimal.Feed();
             Console.ReadKey();
         }
     }
