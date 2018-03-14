@@ -32,5 +32,11 @@ namespace CardClassLibrary
             for (int index = 0; index < this.Count; index++)
                 targetCards[index] = this[index];
         }
+        /// <summary>
+        /// 检查是否包含特定卡片
+        /// ArrayList中Contains()方法, 可以访问InnerList属性
+        /// </summary>
+        /// 
+        public bool Contains(Card card) => InnerList.Contains(card);
     }
 }

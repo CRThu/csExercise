@@ -23,7 +23,7 @@
   </Class>
   <Class Name="CardClassLibrary.Deck">
     <Position X="0.5" Y="0.5" Width="1.5" />
-    <AssociationLine Name="cards" Type="CardClassLibrary.Card">
+    <AssociationLine Name="cards" Type="CardClassLibrary.Cards">
       <MemberNameLabel ManuallyPlaced="true">
         <Position X="0.193" Y="0.06" />
       </MemberNameLabel>
@@ -35,6 +35,13 @@
     <ShowAsAssociation>
       <Field Name="cards" />
     </ShowAsAssociation>
+  </Class>
+  <Class Name="CardClassLibrary.Cards" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAACAAABAAAAAAAAAAAAAAAAAAQIAA=</HashCode>
+      <FileName>Cards.cs</FileName>
+    </TypeIdentifier>
   </Class>
   <Enum Name="CardClassLibrary.Suit">
     <Position X="3" Y="2.25" Width="1.5" />
