@@ -27,4 +27,23 @@ namespace Collections
             set { List[animalIndex] = value; }
         }
     }
+    // Animals2集合
+    // DictionaryBase类和???????????????????????????????????
+    public class Animals2 : DictionaryBase
+    {
+        public void Add(string newID, Animal newAnimal)
+        {
+            Dictionary.Add(newID, newAnimal);
+        }
+        public void Remove(string animalID)
+        {
+            Dictionary.Remove(animalID);
+        }
+        public Animals2() { }
+        public Animals2 this[string animalID]
+        {
+            get { return (Animals2)Dictionary[animalID]; }
+            set { Dictionary[animalID] = value; }
+        }
+    }
 }
