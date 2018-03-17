@@ -40,9 +40,9 @@ namespace Collections
             Dictionary.Remove(animalID);
         }
         public Animals2() { }
-        public Animals2 this[string animalID]
+        public Animal this[string animalID]
         {
-            get { return (Animals2)Dictionary[animalID]; }
+            get { return (Animal)Dictionary[animalID]; }
             set { Dictionary[animalID] = value; }
         }
     }

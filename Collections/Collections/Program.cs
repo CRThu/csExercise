@@ -59,6 +59,13 @@ namespace Collections
             animalCollection.Add(new Chicken("Kevin"));
             foreach (Animal myAnimal in animalCollection)
                 myAnimal.Feed();
+            // 测试Animals2类
+            Console.WriteLine();
+            Animals2 animalCollection2 = new Animals2();
+            animalCollection2.Add("Donna",new Cow("Donna"));
+            animalCollection2.Add("Kevin", new Chicken("Kevin"));
+            foreach (DictionaryEntry myEntry in animalCollection2)
+                Console.WriteLine($"New {myEntry.Value.ToString()} object added to custom collection, Name = {((Animal)myEntry.Value).Name}");
             Console.ReadKey();
         }
     }
