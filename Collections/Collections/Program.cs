@@ -64,6 +64,7 @@ namespace Collections
             Animals2 animalCollection2 = new Animals2();
             animalCollection2.Add("Donna",new Cow("Donna"));
             animalCollection2.Add("Kevin", new Chicken("Kevin"));
+            // 可使用迭代器简化foreach
             foreach (DictionaryEntry myEntry in animalCollection2)
                 Console.WriteLine($"New {myEntry.Value.ToString()} object added to custom collection, Name = {((Animal)myEntry.Value).Name}");
             Console.ReadKey();
