@@ -45,5 +45,11 @@ namespace Collections
             get { return (Animal)Dictionary[animalID]; }
             set { Dictionary[animalID] = value; }
         }
+        // 简单迭代器实现
+        public new IEnumerator GetEnumerator()
+        {
+            foreach (object animal in Dictionary.Values)
+                yield return (Animal)animal;
+        }
     }
 }
