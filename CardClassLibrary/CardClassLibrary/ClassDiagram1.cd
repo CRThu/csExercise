@@ -9,42 +9,45 @@
     </AssociationLine>
     <AssociationLine Name="suit" Type="CardClassLibrary.Suit">
       <MemberNameLabel ManuallyPlaced="true">
-        <Position X="0.102" Y="0.168" />
+        <Position X="0.094" Y="0.201" />
       </MemberNameLabel>
     </AssociationLine>
     <TypeIdentifier>
-      <HashCode>AEAAAAAAAQAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AEAAAAAAAQAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
       <FileName>Card.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
       <Field Name="rank" />
       <Field Name="suit" />
     </ShowAsAssociation>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="CardClassLibrary.Deck">
     <Position X="0.5" Y="0.5" Width="1.5" />
     <AssociationLine Name="cards" Type="CardClassLibrary.Cards">
       <MemberNameLabel ManuallyPlaced="true">
-        <Position X="0.193" Y="0.06" />
+        <Position X="0.068" Y="0.327" />
       </MemberNameLabel>
     </AssociationLine>
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAEAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAQAAAAAAAAAAAAAAAEBA=</HashCode>
       <FileName>Deck.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
       <Field Name="cards" />
     </ShowAsAssociation>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="CardClassLibrary.Cards" Collapsed="true">
-    <Position X="0.5" Y="2.25" Width="1.5" />
+    <Position X="0.5" Y="3" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIAAAAAAAAAAAAACAAABAAAAAAAAAAAAAAAAAAQIAA=</HashCode>
+      <HashCode>AAIAAAAAAAAAAAAACAAABAAAAAAAAAAAAAAAAAAQIBA=</HashCode>
       <FileName>Cards.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Orientation="Bottom" Position="0.217" />
   </Class>
   <Enum Name="CardClassLibrary.Suit">
-    <Position X="3" Y="2.25" Width="1.5" />
+    <Position X="3" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAACAACA=</HashCode>
       <FileName>Suit.cs</FileName>

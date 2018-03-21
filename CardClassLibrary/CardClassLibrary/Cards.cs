@@ -7,8 +7,16 @@ using System.Threading.Tasks;
 
 namespace CardClassLibrary
 {
-    public class Cards : CollectionBase
+    public class Cards : CollectionBase, ICloneable
     {
+        // 添加深度复制
+        public object Clone()
+        {
+            Cards newCards = new Cards();
+            foreach (Card sourceCard in List)
+                newCards.Add((Card)sourceCard.Clone());
+            return newCards;
+        }
         // IList
         public void Add(Card newCard)
         {

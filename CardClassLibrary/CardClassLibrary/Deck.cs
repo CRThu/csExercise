@@ -5,8 +5,18 @@ using System.Text;
 
 namespace CardClassLibrary
 {
-    public class Deck
+    public class Deck : ICloneable
     {
+        // 添加Deck复制
+        public object Clone()
+        {
+            Deck newDeck = new Deck(cards.Clone() as Cards);
+            return newDeck;
+        }
+        private Deck(Cards newCards)
+        {
+            cards = newCards;
+        }
         // private Card[] cards;
         private Cards cards = new Cards();
         public Deck()
@@ -29,7 +39,7 @@ namespace CardClassLibrary
         public void Shuffle()
         {
             // Card[] newDeck = new Card[52];  // 牌组
-            Cards newDeck = new Cards(); 
+            Cards newDeck = new Cards();
             bool[] assigned = new bool[52]; // 标记
             Random sourceGen = new Random();    // 随机数组
             for (int i = 0; i < 52; i++)

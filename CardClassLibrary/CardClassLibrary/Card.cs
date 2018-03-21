@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace CardClassLibrary
 {
-    public class Card
+    public class Card : ICloneable
     {
+        // 添加浅度复制
+        public object Clone() => MemberwiseClone();
+
         // 字段属性 - 修饰符 - 常量类型 - readonly
         public readonly Rank rank;
         public readonly Suit suit;
