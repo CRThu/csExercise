@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\iterator\iterator\bin\Debug\iterator.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\iterator\iterator\bin\Debug\iterator.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\iterator\iterator\bin\Debug\iterator.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\iterator\iterator\obj\Debug\iterator.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\iterator\iterator\obj\Debug\iterator.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\iterator\iterator\obj\Debug\iterator.pdb
