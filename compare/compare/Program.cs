@@ -19,6 +19,7 @@ namespace compare
     {
         public int Val;
     }
+
     class Program
     {
         static void Main(string[] args)
@@ -72,6 +73,20 @@ namespace compare
             check.Check(try5);
             Console.WriteLine("\nAnalyzing boxed MyStruct type variable:");
             check.Check(try6);
+            Console.WriteLine();
+
+            // 值比较
+            // 运算符重载
+            AddClass1 op1 = new AddClass1();
+            op1.val = 5;
+            AddClass1 op2 = new AddClass1();
+            op2.val = 5;
+            bool isSame = op1 == op2;   // 是否引用同一个对象, 非验证值相等
+            AddClass1 op3 = op1 + op2;
+            AddClass1 op4 = -op1;
+            Console.WriteLine($"isSame = {isSame}.");
+            Console.WriteLine($"op1.val + op2.val = {op3.val}.");
+            Console.WriteLine($"-op1.val = {op4.val}.");
 
             Console.ReadKey();
         }
