@@ -64,5 +64,15 @@ namespace CardClassLibrary
             newDeck.CopyTo(cards);   // 0开始复制newDeck -> cards
             // cards = newDeck; // 若其他地方代码存在对原cards实例引用, 会出问题
         }
+        /// <summary>
+        /// Nondefault constructor. Allows aces to be set high.
+        /// </summary>
+        public Deck(bool isAceHigh):this()
+        {
+            Card.isAceHigh = isAceHigh;
+        }
+        /// <summary>
+        /// 
+        /// </summary>
     }
 }

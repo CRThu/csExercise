@@ -29,5 +29,17 @@ namespace CardClassLibrary
         {
             return "The " + rank + " of " + suit + "s";
         }
+        /// <summary>
+        /// Flag for trump usage. If true, trumps are valued higher than cards of other suits.
+        /// </summary>
+        public static bool useTrumps = false;
+        /// <summary>
+        /// Trump suit to use if useTrumps is true.
+        /// </summary>
+        public static Suit trump = Suit.Club;
+        /// <summary>
+        /// Flag that determines whether aces are higher than kings or lower than deuces.
+        /// </summary>
+        public static bool isAceHigh = true;
     }
 }
