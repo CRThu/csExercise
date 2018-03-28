@@ -67,12 +67,26 @@ namespace CardClassLibrary
         /// <summary>
         /// Nondefault constructor. Allows aces to be set high.
         /// </summary>
-        public Deck(bool isAceHigh):this()
+        public Deck(bool isAceHigh) : this()
         {
             Card.isAceHigh = isAceHigh;
         }
         /// <summary>
-        /// 
+        /// Nondefault constructor. Allows a trump suit to be used.
         /// </summary>
+        public Deck(bool useTrumps, Suit trump) : this()
+        {
+            Card.useTrumps = useTrumps;
+            Card.trump = trump;
+        }
+        /// <summary>
+        /// NonDefault constructor. Allows aces to be set high and a trump suit to be used.
+        /// </summary>
+        public Deck(bool isAceHigh, bool useTrumps, Suit trump) : this()
+        {
+            Card.isAceHigh = isAceHigh;
+            Card.useTrumps = useTrumps;
+            Card.trump = trump;
+        }
     }
 }
