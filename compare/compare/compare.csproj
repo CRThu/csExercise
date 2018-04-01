@@ -46,6 +46,7 @@
     <Compile Include="AddClass1.cs" />
     <Compile Include="Checker.cs" />
     <Compile Include="Person.cs" />
+    <Compile Include="PersonComparerName.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
