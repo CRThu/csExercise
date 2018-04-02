@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -87,8 +88,26 @@ namespace compare
             Console.WriteLine($"isSame = {isSame}.");
             Console.WriteLine($"op1.val + op2.val = {op3.val}.");
             Console.WriteLine($"-op1.val = {op4.val}.");
+            Console.WriteLine();
 
+            // 列表排序
+            ArrayList list = new ArrayList();
+            list.Add(new Person("Rual", 30));
+            list.Add(new Person("Donna", 25));
+            list.Add(new Person("Mary", 27));
+            list.Add(new Person("Ben", 44));
+            Console.WriteLine("Unsorted people:");
+            for (int i = 0; i < list.Count; i++)
+                Console.WriteLine($"{(list[i] as Person).Name} ({(list[i] as Person).Age})");
+            Console.WriteLine();
+            Console.WriteLine("People sorted with nondefault comparer (by name):");
+            list.Sort(PersonComparerName.Default);
+            for (int i = 0; i < list.Count; i++)
+                Console.WriteLine($"{(list[i] as Person).Name} ({(list[i] as Person).Age})");
             Console.ReadKey();
+
+            // 转换
+
         }
     }
 }
