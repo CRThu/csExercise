@@ -104,10 +104,16 @@ namespace compare
             list.Sort(PersonComparerName.Default);
             for (int i = 0; i < list.Count; i++)
                 Console.WriteLine($"{(list[i] as Person).Name} ({(list[i] as Person).Age})");
-            Console.ReadKey();
 
             // 转换
+            ConvClass1 conv1 = new ConvClass1();
+            conv1.val = 3;
+            ConvClass2 conv2 = conv1;   // implicit 隐式转换
+            ConvClass2 conv3 = new ConvClass2();
+            conv3.val = 3e15;
+            ConvClass1 conv4 = (ConvClass1)conv3;   // explicit 显式转换
 
+            Console.ReadKey();
         }
     }
 }
