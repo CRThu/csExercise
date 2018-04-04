@@ -110,7 +110,8 @@ namespace compare
             conv1.val = 3;
             ConvClass2 conv2 = conv1;   // implicit 隐式转换
             ConvClass2 conv3 = new ConvClass2();
-            conv3.val = 3e15;
+            conv3.val = 3;
+            // conv3.val = 3e15;   // System.OverflowException
             ConvClass1 conv4 = (ConvClass1)conv3;   // explicit 显式转换
 
             Console.ReadKey();
