@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddClass1.cs" />
+    <Compile Include="AsClass.cs" />
     <Compile Include="Checker.cs" />
     <Compile Include="ConvClass.cs" />
     <Compile Include="Person.cs" />

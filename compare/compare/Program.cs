@@ -114,6 +114,20 @@ namespace compare
             // conv3.val = 3e15;   // System.OverflowException
             ConvClass1 conv4 = (ConvClass1)conv3;   // explicit 显式转换
 
+            // as
+            Console.WriteLine();
+
+            AsClassA MyAnimal = new AsClassA();
+            AsClassD MyCow = MyAnimal as AsClassD;
+            // MyAnimal ==null
+
+            AsClassD MyCow2 = new AsClassD();
+            AsClassA MyAnimal2 = MyCow2;
+            AsClassD MyNewCow2 = MyAnimal2 as AsClassD;
+            // MyNewCow2 包含 MyCow2引用
+            MyCow2.MilkCow(MyCow2);
+            MyCow2.MilkCow(MyNewCow2);
+
             Console.ReadKey();
         }
     }
