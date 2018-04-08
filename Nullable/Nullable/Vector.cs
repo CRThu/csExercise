@@ -11,12 +11,12 @@ namespace Nullable
     {
         public double? R = null;
         public double? Theta = null;
-        public double? ThetaRadians
+        public double? ThetaRadians // 角度转弧度
         {
             // Convert degrees to radians
             get { return (Theta * Math.PI / 180.0); }
         }
-        public Vector(double? r, double? theta)
+        public Vector(double? r, double? theta) // 标准化
         {
             // Normalize
             if (r < 0)
@@ -29,7 +29,7 @@ namespace Nullable
             R = r;
             Theta = theta;
         }
-        public static Vector operator +(Vector op1, Vector op2)
+        public static Vector operator +(Vector op1, Vector op2) // 运算重载
         {
             try
             {
