@@ -1,0 +1,6 @@
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ListT\ListT\bin\Debug\ListT.exe.config
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ListT\ListT\bin\Debug\ListT.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ListT\ListT\bin\Debug\ListT.pdb
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ListT\ListT\obj\Debug\ListT.csprojResolveAssemblyReference.cache
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ListT\ListT\obj\Debug\ListT.exe
+C:\Users\YummyCarrot\Documents\Visual Studio 2015\Projects\csExercise\ListT\ListT\obj\Debug\ListT.pdb
