@@ -24,13 +24,28 @@ namespace ListT
             route.Add(new Vector(1.0, 180.0));
             route.Add(new Vector(0.5, 45.0));
             route.Add(new Vector(2.5, 315.0));
-            Console.WriteLine(route.Sum());
-            Comparison<Vector> sorter = new Comparison<Vector>(VectorDelegates.Compare);
-            route.Sort(sorter);
-            Console.WriteLine(route.Sum());
-            Predicate<Vector> searcher = new Predicate<Vector>(VectorDelegates.TopRightQuadrant);
+            Console.WriteLine(route.Sum()); // 输出集合项
+
+            // Comparison<Vector> sorter = new Comparison<Vector>(VectorDelegates.Compare);    // 创建排序委托
+            // route.Sort(sorter);
+            route.Sort(VectorDelegates.Compare);
+            Console.WriteLine(route.Sum()); // 输出排序后的集合
+
+            Predicate<Vector> searcher = new Predicate<Vector>(VectorDelegates.TopRightQuadrant);   // 创建搜索委托
             Vectors topRightQuadrantRoute = new Vectors(route.FindAll(searcher));
             Console.WriteLine(topRightQuadrantRoute.Sum());
+
+            // Dictionary<K, V>
+            Dictionary<string, int> things = new Dictionary<string, int>();
+            things.Add("Green Things", 29);
+            things.Add("Blue Things", 94);
+            things.Add("Yellow Things", 34);
+            things.Add("Red Thing", 52);
+            things.Add("Brown Things", 27);
+            foreach (string key in things.Keys)
+                Console.WriteLine(key);
+            foreach (int value in things.Values)
+                Console.WriteLine(value);
 
             Console.ReadKey();
         }
