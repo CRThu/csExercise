@@ -37,15 +37,22 @@ namespace ListT
 
             // Dictionary<K, V>
             Dictionary<string, int> things = new Dictionary<string, int>();
+            // 不区分大小写比较字符串键
+            // Dictionary<string, int> things = new Dictionary<string, int>(StringComparer.CurrentCultureIgnoreCase);
+
+            // 不允许相同的键
             things.Add("Green Things", 29);
             things.Add("Blue Things", 94);
             things.Add("Yellow Things", 34);
             things.Add("Red Thing", 52);
             things.Add("Brown Things", 27);
+
             foreach (string key in things.Keys)
                 Console.WriteLine(key);
             foreach (int value in things.Values)
                 Console.WriteLine(value);
+            foreach (KeyValuePair<string, int> thing in things)
+                Console.WriteLine($"{thing.Key} = {thing.Value}");
 
             Console.ReadKey();
         }
