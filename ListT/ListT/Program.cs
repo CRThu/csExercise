@@ -54,6 +54,19 @@ namespace ListT
             foreach (KeyValuePair<string, int> thing in things)
                 Console.WriteLine($"{thing.Key} = {thing.Value}");
 
+            // 索引初始化器
+            var dictionary = new Dictionary<int, string>
+            {
+                [1] = "Value1",
+                [2] = "Value2",
+                [3] = "Value3"
+            };
+            var colorMap = new Dictionary<string, ConsoleColor>
+            {
+                ["Error"] = ConsoleColor.Red,
+                ["Information"] = ConsoleColor.Yellow,
+                ["Verbose"] = ConsoleColor.White
+            };
             Console.ReadKey();
         }
     }
